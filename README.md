@@ -2,7 +2,7 @@
 
 A beginner-friendly chatbot using Meta’s TinyLLaMA model, Streamlit, and Hugging Face 🤖  
 This project allows you to chat with a small, efficient open-source language model using a clean web interface.
-his project is a simple and beginner-friendly AI chatbot built using Meta’s TinyLLaMA language model and Streamlit. It leverages Hugging Face’s transformers library to load and run a lightweight open-source model locally, making it a great starting point for understanding how language models work in real-time applications. The chatbot takes user input, processes it with the TinyLLaMA model, and responds naturally through a clean and interactive web interface. Ideal for students, developers, and hobbyists who want to explore LLMs without needing heavy computing resources.
+This project is a simple and beginner-friendly AI chatbot built using Meta’s TinyLLaMA language model and Streamlit. It leverages Hugging Face’s transformers library to load and run a lightweight open-source model locally, making it a great starting point for understanding how language models work in real-time applications. The chatbot takes user input, processes it with the TinyLLaMA model, and responds naturally through a clean and interactive web interface. Ideal for students, developers, and hobbyists who want to explore LLMs without needing heavy computing resources.
 ![Screenshot (820)](https://github.com/user-attachments/assets/234f72f8-0e36-44c5-bf02-3f902d049ed9)
 ![Screenshot (821)](https://github.com/user-attachments/assets/6df94107-4f97-4f31-8770-15f3d0915b2a)
 
