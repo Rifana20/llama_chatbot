@@ -1,5 +1,3 @@
-
-````markdown
 # 🦙 TinyLLaMA Chatbot
 
 A beginner-friendly chatbot using Meta’s TinyLLaMA model, Streamlit, and Hugging Face 🤖  
@@ -13,7 +11,7 @@ To run the chatbot locally:
 
 ```bash
 streamlit run app.py
-````
+```
 
 ---
 
@@ -30,9 +28,9 @@ llama_chatbot/
 
 ## 📦 Requirements
 
-* Python 3.8+
-* pip
-* Internet connection (to download the model)
+- Python 3.8+
+- pip
+- Internet connection (to download the model)
 
 ### 📥 Install Dependencies
 
@@ -50,11 +48,11 @@ pip install torch transformers streamlit
 
 ## 💬 Sample Prompts to Try
 
-* What is artificial intelligence?
-* Tell me a fun fact.
-* Explain Python like I’m five.
-* Write a short poem about the moon.
-* Who is the president of India?
+- What is artificial intelligence?
+- Tell me a fun fact.
+- Explain Python like I’m five.
+- Write a short poem about the moon.
+- Who is the president of India?
 
 ---
 
@@ -69,7 +67,7 @@ pip install torch transformers streamlit
 
 ## 🌐 Model Used
 
-* [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+- [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
 
 > TinyLLaMA is a lightweight and efficient open-source large language model trained for chat-based tasks.
 
@@ -112,9 +110,8 @@ if user_input:
 ## 📤 Deploy (Optional)
 
 You can deploy this chatbot using:
-
-* **Streamlit Community Cloud**: [https://streamlit.io/cloud](https://streamlit.io/cloud)
-* Or host locally and share over a network
+- **Streamlit Community Cloud**: [https://streamlit.io/cloud](https://streamlit.io/cloud)
+- Or host locally and share over a network
 
 ---
 
@@ -129,10 +126,3 @@ MIT License
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 Made with ❤️ using open-source tools.
-
-```
-
----
-
-Let me know if you want a matching **`LICENSE` file**, a **custom banner image**, or steps for **Streamlit Cloud deployment**.
-```
